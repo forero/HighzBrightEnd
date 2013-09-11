@@ -1,0 +1,28 @@
+PLANCK
+snap    z       BDM
+7 	6.0 	null 	14018930 	null 	null 	39351 	1 	null 	null
+8 	5.5 	null 	20889858 	null 	null 	88919 	7 	null 	null
+9 	5.41 	null 	22302164 	null 	null 	102114 	10 	null 	null
+10 	5.08 	21655011 	28340884 	null 	null 	172152 	22 	null 	null
+11 	4.56 	31250666 	39556237 	null 	null 	369386 	78 	null 	null
+12 	4.41 	34526005 	43287703 	null 	null 	458807 	135 	null 	null
+-13 	4.1 	41553919 	51163605 	null 	null 	698860 	352 	null 	null
+14 	3.41 	60052149 	70769730 	null 	null 	1735631 	3115 	null 	null
+15 	2.89 	74654278 	85133393 	null 	null 	3194584 	13454 	null 	null
+
+
+MULTIDARK
+SNAP    z       FOF     BDM
+22 	8.84 	F 	null 	null
+24 	7.68 	F 	null 	null
+26 	6.39 	F 	null 	null
+28 	5.42 	F 	null 	null
+30 	4.68 	F 	B 	BP
+-32 	4.1 	F 	B 	BP
+34 	3.41 	F 	B 	BP
+36 	2.89 	F 	B 	BP
+38 	2.48 	F 	B 	BP
+40 	2.15 	F 	B 	BP
+30 	4.68 	F 	B 	BP
+32 	4.1 	F 	B 	BP
+34 	3.41 	F 	B 	BP
